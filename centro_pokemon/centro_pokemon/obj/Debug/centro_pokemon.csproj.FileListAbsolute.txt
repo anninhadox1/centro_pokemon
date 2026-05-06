@@ -5,3 +5,10 @@ C:\Users\anna.ctinacio\source\repos\centro_pokemon\centro_pokemon\obj\Debug\cent
 C:\Users\anna.ctinacio\source\repos\centro_pokemon\centro_pokemon\obj\Debug\centro_pokemon.csproj.CoreCompileInputs.cache
 C:\Users\anna.ctinacio\source\repos\centro_pokemon\centro_pokemon\obj\Debug\centro_pokemon.exe
 C:\Users\anna.ctinacio\source\repos\centro_pokemon\centro_pokemon\obj\Debug\centro_pokemon.pdb
+C:\Users\anna.ctinacio\Documents\centro_pokemon\centro_pokemon\centro_pokemon\obj\Debug\centro_pokemon.csproj.AssemblyReference.cache
+C:\Users\anna.ctinacio\Documents\centro_pokemon\centro_pokemon\centro_pokemon\obj\Debug\centro_pokemon.csproj.CoreCompileInputs.cache
+C:\Users\anna.ctinacio\Documents\centro_pokemon\centro_pokemon\centro_pokemon\obj\Debug\centro_pokemon.exe
+C:\Users\anna.ctinacio\Documents\centro_pokemon\centro_pokemon\centro_pokemon\obj\Debug\centro_pokemon.pdb
+C:\Users\anna.ctinacio\Documents\centro_pokemon\centro_pokemon\centro_pokemon\bin\Debug\centro_pokemon.exe.config
+C:\Users\anna.ctinacio\Documents\centro_pokemon\centro_pokemon\centro_pokemon\bin\Debug\centro_pokemon.exe
+C:\Users\anna.ctinacio\Documents\centro_pokemon\centro_pokemon\centro_pokemon\bin\Debug\centro_pokemon.pdb
